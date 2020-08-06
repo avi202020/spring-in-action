@@ -116,7 +116,7 @@ fabric.properties
 .mtj.tmp/
 
 
-.target/*
+/target
 
 # Package Files #
 *.jar

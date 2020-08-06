@@ -1,8 +1,0 @@
-com/example/demo/DemoApplication.class
-com/example/demo/domain/model/User.class
-com/example/demo/data/JpaUserRepository.class
-com/example/demo/data/JdbcUserRepositoryImpl.class
-com/example/demo/domain/model/User$Permissions.class
-com/example/demo/view/controllers/HelloController.class
-com/example/demo/view/controllers/UserController.class
-com/example/demo/domain/repository/UserRepository.class

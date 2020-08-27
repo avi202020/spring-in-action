@@ -98,7 +98,7 @@ fabric.properties
 # See https://youtrack.jetbrains.com/issue/JBR-2257
 .idea/$CACHE_FILE$
 
-.idea/*
+.idea.
 
 # CodeStream plugin
 # https://plugins.jetbrains.com/plugin/12206-codestream
@@ -130,3 +130,4 @@ fabric.properties
 *.rar
 
 *.DS_Store
+.idea/workspace.xml
